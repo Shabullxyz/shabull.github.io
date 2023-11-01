@@ -1,6 +1,6 @@
 ---
 author: Saul Edgardo Peña Rivera
-pubDatetime: 2023-10-28T09:00:00.000-03:00
+pubDatetime: 2023-10-28T09:00:00.000Z
 title: Primer contacto con la Melena y el Cordiceps
 postSlug: primer-contact-melena
 featured: true

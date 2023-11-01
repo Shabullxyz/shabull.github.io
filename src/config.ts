@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://www.shabull.xyz", // replace this with your deployed domain
+  website: "https://blog.shabull.xyz", // replace this with your deployed domain
   author: "Saul Edgardo Peña",
   desc: "Blog personal donde comparto tips sobre programacion, reino fungi, desarrollo personal y productividad",
   title: "Shabull XYZ",
@@ -13,7 +13,7 @@ export const SITE: Site = {
 export const LOCALE = ["es-AR"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
-  enable: true,
+  enable: false,
   svg: false,
   width: 216,
   height: 46,
